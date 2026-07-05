@@ -1,9 +1,112 @@
 [
   {
-    "mes": "Enero",
-    "ventas": 120,
-    "ingresos": 2450000,
-    "productoMasVendido": "Catan",
-    "clientesNuevos": 18
+    "id": 1,
+    "titulo": "Reversi (Othello)",
+    "categoria": "Captura y Bloqueo",
+    "cantidad": 1,
+    "precio": 13990,
+    "precioTotal": 13990,
+    "cliente": "Juan Perez",
+    "fechaContabilizacion": "2026-07-04",
+    "tipoVenta": "venta"
+  },
+  {
+    "id": 2,
+    "titulo": "Tablero Ajedrez",
+    "categoria": "Estrategia",
+    "cantidad": 2,
+    "precio": 14970,
+    "precioTotal": 29940,
+    "cliente": "Sebastian Flores",
+    "fechaContabilizacion": "2026-07-03",
+    "tipoVenta": "venta"
+  },
+  {
+    "id": 3,
+    "titulo": "Damas Clasicas",
+    "categoria": "Estrategia",
+    "cantidad": 1,
+    "precio": 14970,
+    "precioTotal": 14970,
+    "cliente": "Andres Lobos",
+    "fechaContabilizacion": "2026-06-10",
+    "tipoVenta": "venta"
+  },
+  {
+    "id": 4,
+    "titulo": "Ludo Magnetico",
+    "categoria": "Carreras y Azar",
+    "cantidad": 5,
+    "precio": 3990,
+    "precioTotal": 19950,
+    "cliente": "Eduardo Aguirre",
+    "fechaContabilizacion": "2026-06-20",
+    "tipoVenta": "venta"
+  },
+  {
+    "id": 5,
+    "titulo": "Monopoly Clasico",
+    "categoria": "Comercio y Negociacion",
+    "cantidad": 3,
+    "precio": 16990,
+    "precioTotal": 50970,
+    "cliente": "David Inostroza",
+    "fechaContabilizacion": "2026-06-15",
+    "tipoVenta": "venta"
+  },
+  {
+    "id": 6,
+    "titulo": "Reversi (Othello)",
+    "categoria": "Captura",
+    "cantidad": 1,
+    "precio": 13990,
+    "precioTotal": 13990,
+    "cliente": "Juan Perez",
+    "fechaContabilizacion": "2026-07-04",
+    "tipoVenta": "preventa"
+  },
+  {
+    "id": 7,
+    "titulo": "Reversi (Othello)",
+    "categoria": "Captura y Bloqueo",
+    "cantidad": 1,
+    "precio": 13990,
+    "precioTotal": 13900,
+    "cliente": "Jacqueline Delgado",
+    "fechaContabilizacion": "2026-07-04",
+    "tipoVenta": "preventa"
+  },
+  {
+    "id": 8,
+    "titulo": "Damas Chinas",
+    "categoria": "Captura y Bloqueo",
+    "cantidad": 3,
+    "precio": 5990,
+    "precioTotal": 17970,
+    "cliente": "Valentina Barrera",
+    "fechaContabilizacion": "2026-06-22",
+    "tipoVenta": "preventa"
+  },
+  {
+    "id": 9,
+    "titulo": "Backgammon Dactic",
+    "categoria": "Carreras y Azar",
+    "cantidad": 2,
+    "precio": 4600,
+    "precioTotal": 9200,
+    "cliente": "Carlos Bazaes",
+    "fechaContabilizacion": "2026-06-18",
+    "tipoVenta": "preventa"
+  },
+  {
+    "id": 10,
+    "titulo": "El juego de la Oca",
+    "categoria": "Captura y Bloqueo",
+    "cantidad": 1,
+    "precio": 3990,
+    "precioTotal": 3990,
+    "cliente": "Yhon Sanchez",
+    "fechaContabilizacion": "2026-07-01",
+    "tipoVenta": "preventa"
   }
 ]
