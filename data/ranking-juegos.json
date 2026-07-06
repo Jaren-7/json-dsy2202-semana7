@@ -2,7 +2,7 @@
   {
     "id": 435341,
     "nombre": "Ark Nova",
-    "año": 2021,
+    "anio": 2021,
     "ranking": 1,
     "categoria": "Estrategia / Gestión",
     "descripcion": "Diseña y gestiona un zoológico moderno de base científica. Construyes recintos, alojas animales y apoyas proyectos de conservación global.",
@@ -11,7 +11,7 @@
   {
     "id": 224517,
     "nombre": "Brass: Birmingham",
-    "año": 2018,
+    "anio": 2018,
     "ranking": 2,
     "categoria": "Económico / Estrategia",
     "descripcion": "Un juego de estrategia económica ambientado en la Revolución Industrial. Compites por construir industrias, conectar redes de canales y vender carbón.",
@@ -20,7 +20,7 @@
   {
     "id": 174430,
     "nombre": "Gloomhaven",
-    "año": 2017,
+    "anio": 2017,
     "ranking": 3,
     "categoria": "Cooperativo / Rol",
     "descripcion": "Una enorme campaña cooperativa de combate táctico. Los jugadores asumen el rol de mercenarios errantes en un mundo de fantasía persistente y cambiante.",
@@ -29,7 +29,7 @@
   {
     "id": 167791,
     "nombre": "Terraforming Mars",
-    "año": 2016,
+    "anio": 2016,
     "ranking": 4,
     "categoria": "Ciencia Ficción",
     "descripcion": "Corporaciones compiten por transformar Marte en un planeta habitable. Utilizan tecnologías masivas para elevar la temperatura, el oxígeno y crear océanos.",
@@ -38,7 +38,7 @@
   {
     "id": 266192,
     "nombre": "Wingspan",
-    "año": 2019,
+    "anio": 2019,
     "ranking": 5,
     "categoria": "Familiar / Cartas",
     "descripcion": "Un juego relajante de gestión de cartas donde eres un entusiasta de las aves. Buscas descubrir y atraer las mejores especies de pájaros a tu reserva natural.",
@@ -47,7 +47,7 @@
   {
     "id": 342942,
     "nombre": "Dune: Imperium",
-    "año": 2020,
+    "anio": 2020,
     "ranking": 6,
     "categoria": "Construcción de Mazos",
     "descripcion": "Estrategia e intriga militar ambientada en el universo de Dune. Combina la mecánica de colocación de trabajadores con la construcción de mazos de cartas.",
@@ -56,7 +56,7 @@
   {
     "id": 162886,
     "nombre": "Spirit Island",
-    "año": 2017,
+    "anio": 2017,
     "ranking": 7,
     "categoria": "Cooperativo / Estrategia",
     "descripcion": "Juego cooperativo de alta complejidad donde los jugadores interpretan a espíritus de la naturaleza. Deben defender su isla de invasores colonizadores europeos.",
@@ -65,7 +65,7 @@
   {
     "id": 173346,
     "nombre": "7 Wonders Duel",
-    "año": 2015,
+    "anio": 2015,
     "ranking": 8,
     "categoria": "Para 2 Jugadores",
     "descripcion": "El aclamado juego de civilizaciones adaptado exclusivamente para dos jugadores. Desarrollas la ciencia, el ejército y estructuras comerciales para ganar.",
@@ -74,7 +74,7 @@
   {
     "id": 237182,
     "nombre": "Root",
-    "año": 2018,
+    "anio": 2018,
     "ranking": 9,
     "categoria": "Guerra Asimétrica",
     "descripcion": "Un juego de guerra forestal donde cada jugador controla una facción animal con reglas y objetivos de victoria completamente diferentes.",
@@ -83,7 +83,7 @@
   {
     "id": 68448,
     "nombre": "7 Wonders",
-    "año": 2010,
+    "anio": 2010,
     "ranking": 10,
     "categoria": "Civilización / Draft",
     "descripcion": "Lidera una de las siete grandes ciudades de la Antigüedad. Desarrolla tu producción comercial, avances científicos y tu fuerza militar a través de eras.",
